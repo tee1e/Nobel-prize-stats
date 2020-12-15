@@ -4,7 +4,7 @@ This is a homework project for Introduction to Data Science course (LTAT.02.002)
 
 The aim of this project is to analyse and visualize Nobel prize data.
 
-Link to the [dataset](https://www.kaggle.com/bahramjannesarr/nobel-prize-from-1901-till-2020).
+Link to the [dataset](https://nobelprize.readme.io/docs/laureate).
 
 
 To view interactive content or to modify elements within the notebook, you must first clone or download the repository then run the notebook.
